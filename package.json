@@ -1,0 +1,27 @@
+{
+  "name": "serverless-reader-tutorial",
+  "version": "1.0.0",
+  "description": "Learn how to use serverless functions in less than 30 minutes!",
+  "main": "index.js",
+  "dependencies": {
+    "@mozilla/readability": "^0.4.1",
+    "dompurify": "^2.3.0",
+    "got": "^11.8.2",
+    "jsdom": "^16.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HussainArif12/serverless-reader-tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HussainArif12/serverless-reader-tutorial/issues"
+  },
+  "homepage": "https://github.com/HussainArif12/serverless-reader-tutorial#readme"
+}
